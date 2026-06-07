@@ -15,7 +15,7 @@ public class DuplicateElements {
                 if(arr[i]==arr[j]){
                     System.out.println(arr[i]);
                     break;
-                }
+                } 
             }
         }
      }
