@@ -17,7 +17,7 @@ public class CountOdd {
             }
         }
         System.out.println("No. of Odd Digits are " + count);
-
+        sc.close();
     }
     
 }
