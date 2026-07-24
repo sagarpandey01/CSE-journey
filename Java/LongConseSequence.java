@@ -24,7 +24,7 @@ public class LongConseSequence {
                 }
                 ans=Math.max(ans,count);
             }
-        }
+        } 
         System.out.println("Longest consecutive Sequence length: " + ans);
         sc.close();
     }
